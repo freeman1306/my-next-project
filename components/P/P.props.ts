@@ -1,6 +1,6 @@
-import {ReactNode} from "react";
+import {DetailedHTMLProps, HTMLAttributes, ReactNode} from "react";
 
-export interface HtagProps {
-    tag: 'h1' | 'h2' | 'h3'
+export interface PProps extends DetailedHTMLProps<HTMLAttributes<HTMLParagraphElement>, HTMLParagraphElement>{
+    size: 's' | 'm' | 'l'
     children: ReactNode
 }

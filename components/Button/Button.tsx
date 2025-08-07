@@ -21,7 +21,7 @@ export const Button = ({appearance, arrow='none', children, className, ...props}
             {arrow != 'none' && <span className={cn(styles.arrow, {
                 [styles.down]: arrow == 'down'
             })}>
-                <ArrowIcon/>
+                {/*<ArrowIcon/>*/}
             </span>}
         </motion.button>
     )

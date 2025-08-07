@@ -1,18 +1,20 @@
 import {JSX} from "react";
-import {HtagProps} from "@/components/Htag/Htag.props";
 import styles from './P.module.css'
+import {PProps} from "@/components/P/P.props";
 import cn from 'classNames'
 
-export const Htag = ({tag, children}: HtagProps) :JSX.Element => {
 
-    switch (tag){
-        case "h1":
-           return <h1 className={styles.h1}>{children}</h1>
-        case "h2":
-            return <h2 className={styles.h2}>{children}</h2>
-        case "h3":
-            return <h3 className={styles.h3}>{children}</h3>
-        default:
-            return <></>
-    }
+export const P = ({size='m', children, className, ...props}: PProps) :JSX.Element => {
+
+   return (
+       <p
+       className={cn(styles.p, className, {
+           [styles.s]: size == 's',
+           [styles.m]: size == 'm',
+           [styles.l]: size == 'l',
+
+       })}
+           {...props}
+       >{children}</p>
+   )
 }
