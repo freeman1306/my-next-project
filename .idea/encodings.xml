@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.env.local" charset="US-ASCII" />
     <file url="file://$PROJECT_DIR$/components/Button/Button.props.ts" charset="US-ASCII" />
     <file url="file://$PROJECT_DIR$/components/Button/Button.tsx" charset="US-ASCII" />
     <file url="file://$PROJECT_DIR$/components/Button/Buttton.module.css" charset="US-ASCII" />
@@ -11,6 +12,14 @@
     <file url="file://$PROJECT_DIR$/components/P/P.props.ts" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/components/P/P.tsx" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/components/index.ts" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/context/app.context.tsx" charset="US-ASCII" />
     <file url="file://$PROJECT_DIR$/images.d.ts" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/interfaces/menu.interface.ts" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/interfaces/page.inteface.ts" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/interfaces/product.interface.ts" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/layout/Footer/Footer.module.css" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/layout/Header/Header.module.css" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/layout/Sidebar/Sidebar.module.css" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/pages/courses/[alias].tsx" charset="UTF-8" />
   </component>
 </project>
