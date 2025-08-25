@@ -1,7 +1,7 @@
 import {JSX} from "react";
 import {HtagProps} from "@/components/Htag/Htag.props";
 import styles from './Htag.module.css'
-import cn from 'classNames'
+import cn from 'classnames'
 
 export const Htag = ({tag, children}: HtagProps) :JSX.Element => {
 

@@ -1,0 +1,10 @@
+.up{
+    height: 40px;
+    width: 40px;
+    box-shadow: 0px 4px 4px 0px #0000000D;
+    background: var(--primary);
+border-radius: 10px;
+    bottom: 30px;
+    right: 30px;
+    position: fixed;
+}

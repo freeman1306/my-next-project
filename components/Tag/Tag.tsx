@@ -1,7 +1,7 @@
 import {JSX} from "react";
 import styles from './Tag.module.css'
 import {PProps} from "@/components/P/P.props";
-import cn from 'classNames'
+import cn from 'classnames'
 
 
 export const Tag = ({size='s', children, color='ghost', href, className, ...props}: PProps) :JSX.Element => {

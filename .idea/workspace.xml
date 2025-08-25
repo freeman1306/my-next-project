@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d82dc1ad-46f1-450d-bf16-1011584be05d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/components/Advantages/Advantages.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Advantages/Advantages.props.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Advantages/Advantages.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Card/Card.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Card/Card.props.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Card/Card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Divider/Divider.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Divider/Divider.props.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Divider/Divider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/HhData/HhData.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/HhData/HhData.props.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/HhData/HhData.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Input/Input.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Input/Input.props.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Input/Input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Product/Product.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Product/Product.props.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Product/Product.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Review/Review.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Review/Review.props.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Review/Review.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ReviewForm/ReviewForm.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ReviewForm/ReviewForm.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ReviewForm/ReviewForm.props.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ReviewForm/ReviewForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Search/Search.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Search/Search.props.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Search/Search.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Sort/Sort.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Sort/Sort.props.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Sort/Sort.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Textarea/Textarea.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Textarea/Textarea.props.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Textarea/Textarea.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Up/Up.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Up/Up.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helpers/api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helpers/helpers.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/useScrollY.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page-components/TopPageComponent/TopPageComponent.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page-components/TopPageComponent/TopPageComponent.props.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page-components/TopPageComponent/TopPageComponent.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page-components/TopPageComponent/sort.reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page-components/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/404.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/[type]/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/search.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/top-app_page-router.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/top-app_page-router.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Button/Button.props.ts" beforeDir="false" afterPath="$PROJECT_DIR$/components/Button/Button.props.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Button/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Button/Button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Button/Buttton.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Button/Buttton.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Htag/Htag.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Htag/Htag.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Htag/Htag.props.ts" beforeDir="false" afterPath="$PROJECT_DIR$/components/Htag/Htag.props.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Htag/Htag.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Htag/Htag.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/P/P.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/P/P.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/P/P.props.ts" beforeDir="false" afterPath="$PROJECT_DIR$/components/P/P.props.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/P/P.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/P/P.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Rating/Rating.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Rating/Rating.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Rating/Rating.props.ts" beforeDir="false" afterPath="$PROJECT_DIR$/components/Rating/Rating.props.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Rating/Rating.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Rating/Rating.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Tag/Tag.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Tag/Tag.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Tag/Tag.props.ts" beforeDir="false" afterPath="$PROJECT_DIR$/components/Tag/Tag.props.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Tag/Tag.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Tag/Tag.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/components/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/app.context.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/context/app.context.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interfaces/menu.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/interfaces/menu.interface.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interfaces/page.inteface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/interfaces/page.inteface.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interfaces/product.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/interfaces/product.interface.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/Footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/layout/Footer/Footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/Footer/Footer.props.ts" beforeDir="false" afterPath="$PROJECT_DIR$/layout/Footer/Footer.props.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/Footer/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/layout/Footer/Footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/Header/Header.props.ts" beforeDir="false" afterPath="$PROJECT_DIR$/layout/Header/Header.props.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/layout/Header/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/Layout.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/layout/Layout.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/Layout.props.ts" beforeDir="false" afterPath="$PROJECT_DIR$/layout/Layout.props.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/Layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/layout/Layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/Menu/Menu.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/layout/Menu/Menu.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/Menu/Menu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/layout/Menu/Menu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/Sidebar/Sidebar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/layout/Sidebar/Sidebar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/Sidebar/Sidebar.props.ts" beforeDir="false" afterPath="$PROJECT_DIR$/layout/Sidebar/Sidebar.props.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/Sidebar/Sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/layout/Sidebar/Sidebar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_document.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/courses/[alias].tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/[type]/[alias].tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="31Vx3nE77i4TGsjVulqlZLYAgqk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.CMTMigration_001&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;app.teamhub.selectedTeam&quot;: &quot;https://github.com/freeman1306/my-next-project&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/Ubuntu-24.04/home/freeman1306/JOB/top-app_page-router/components&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;\\\\wsl.localhost\\Ubuntu-24.04\\home\\freeman1306\\JOB\\top-app_page-router\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu-24.04\home\freeman1306\JOB\top-app_page-router\components" />
+      <recent name="\\wsl.localhost\Ubuntu-24.04\home\freeman1306\JOB\top-app_page-router\components\Divider" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu-24.04\home\freeman1306\JOB\top-app_page-router\components\P" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Next.js: server-side">
+    <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="Next.js: server-side" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.27812.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d82dc1ad-46f1-450d-bf16-1011584be05d" name="Changes" comment="" />
+      <created>1755622850110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755622850110</updated>
+      <workItem from="1755622850111" duration="32554000" />
+      <workItem from="1755847321351" duration="9683000" />
+      <workItem from="1755884766174" duration="15010000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,5 +1,5 @@
 import styles from './Buttton.module.css'
-import cn from 'classNames'
+import cn from 'classnames'
 import {ButtonProps} from "@/components/Button/Button.props";
 import {JSX} from "react";
 import { motion } from 'framer-motion';

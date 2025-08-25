@@ -3,7 +3,7 @@ import type { NextConfig } from "next";
 
 module.exports = {
   images : {
-    domains:['courses-top.ru']
+    domains:['old-images.hb.ru-msk.vkcs.cloud']
   },
   webpack (config, options){
   config.module.rules.push({

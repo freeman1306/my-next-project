@@ -1,7 +1,7 @@
 import {JSX} from "react";
 import styles from './P.module.css'
 import {PProps} from "@/components/P/P.props";
-import cn from 'classNames'
+import cn from 'classnames'
 
 
 export const P = ({size='m', children, className, ...props}: PProps) :JSX.Element => {

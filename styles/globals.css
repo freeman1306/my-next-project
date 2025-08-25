@@ -2,12 +2,14 @@
   --background: #F5F6F8;
   /*--foreground: #171717;*/
   --gray-light: #EBEBEB;
+  --gray: #A4A4A4;
   --black: #3B434E;
   --white: white;
   --primary: #7653FC;
   --primary-hover: #4f2dd3;
   --red: #FC836D;
   --green:#1DC37E;
+  --grey-dark: #787D85;
   --green-light: #7ef5c4;
   --font-family: 'Noto Sans', sans-serif;
 }

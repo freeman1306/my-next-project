@@ -1,6 +1,6 @@
 import {JSX} from "react";
 import styles from './Footer.module.css'
-import cn from 'classNames'
+import cn from 'classnames'
 import {FooterProps} from "@/layout/Footer/Footer.props";
 import {format} from 'date-fns'
 

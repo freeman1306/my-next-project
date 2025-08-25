@@ -1,0 +1,31 @@
+.reviewForm{
+    display: grid;
+    grid-template-columns: [start] auto 1fr auto [end];
+    gap: 20px 30px;
+}
+
+.description, .submit{
+    grid-column: start / end;
+
+}
+
+.title{
+    justify-self: left;
+}
+
+.info{
+    margin-left: 15px;
+}
+
+.success{
+    background: var(--green-light);
+    padding: 20px;
+    position: relative;
+}
+
+.close{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+}

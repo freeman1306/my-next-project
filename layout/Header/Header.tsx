@@ -1,6 +1,6 @@
 import {JSX} from "react";
 import styles from './Header.module.css'
-import cn from 'classNames'
+import cn from 'classnames'
 import {HeaderProps} from "@/layout/Header/Header.props";
 
 
